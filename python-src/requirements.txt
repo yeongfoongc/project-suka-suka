@@ -1,0 +1,7 @@
+wget
+geojson
+requests
+numpy
+dask
+Shapely
+pandas
